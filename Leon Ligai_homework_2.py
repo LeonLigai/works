@@ -1,8 +1,6 @@
 sock = ("wrtpsdfghjklzxcvbnmqцкнгшщзхфвпрлджчстбьъ")
 sock2 = ("aeiouйуеыаоэяию")
 
-# if
-
 while True:
     a = input("Введите ваше слово:").lower()
     sogl = 0
